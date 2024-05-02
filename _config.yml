@@ -12,9 +12,9 @@ title                    : "Nathan Sunday"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lizzychikapa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://lizzychikapa.github.io/nathan/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,8 @@ author:
   #employer         : "Red Brick University"
   #uri              : # URL
   email            : "nsunday@umich.edu" 
-  Twitter           : 
+  Twitter           :
+  LinkedIn          :
   github           : "https://github.com/NathanSunday"
 
   # Academic websites
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : " https://www.linkedin.com/in/nathan-sunday-2b385613a/"
+  linkedin         : " https://www.linkedin.com/in/nathan-sunday-2b385613a/" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,14 +66,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : " https://twitter.com/nsunday8" 
+  twitter          :  " https://twitter.com/nsunday8" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  googlescholar   : " https://scholar.google.com/citations?hl=en&user=Ma4dAkQAAAAJ&scilu=&scisig=ANVigOsAAAAAZi281e9NnjkBO75CEkBs9hWe_94&gmla=ABOlHizIBzG-6_h3M_sl_MqikoXbT7vnRS16KmfxLraBhUqouBY6Y-d_-Kpj_Va0aAzZ3pHQq9Ydi8TB-LfKGBwBBt4jGs1-PPjQnWU&sciund=498522134651893097" 
 
 
 # Site Settings
