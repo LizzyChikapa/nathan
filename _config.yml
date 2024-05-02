@@ -29,8 +29,7 @@ author:
   #employer         : "Red Brick University"
   #uri              : # URL
   email            : "nsunday@umich.edu" 
-  Twitter           : " https://twitter.com/nsunday8" 
-  LinkedIn          : " https://www.linkedin.com/in/nathan-sunday-2b385613a/" 
+  Twitter           : 
   github           : "https://github.com/NathanSunday"
 
   # Academic websites
@@ -58,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Nathan sunday"
+  linkedin         : " https://www.linkedin.com/in/nathan-sunday-2b385613a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,13 +65,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : " https://twitter.com/nsunday8" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  googlescholar   : " https://scholar.google.com/citations?hl=en&user=Ma4dAkQAAAAJ&scilu=&scisig=ANVigOsAAAAAZi281e9NnjkBO75CEkBs9hWe_94&gmla=ABOlHizIBzG-6_h3M_sl_MqikoXbT7vnRS16KmfxLraBhUqouBY6Y-d_-Kpj_Va0aAzZ3pHQq9Ydi8TB-LfKGBwBBt4jGs1-PPjQnWU&sciund=498522134651893097" 
 
 
 # Site Settings
