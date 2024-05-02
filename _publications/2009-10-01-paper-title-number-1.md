@@ -1,7 +1,7 @@
 ---
 title: "The effect of commercial banks’ agricultural credit on agricultural growth in Uganda"
 collection: publications
-permalink: /publication/The effect of commercial banks
+permalink: /publication/The-Effect-of-commercial-banks
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
