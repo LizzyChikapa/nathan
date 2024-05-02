@@ -30,6 +30,8 @@ author:
   #uri              : # URL
   email            : "nsunday@umich.edu" 
   github           : "https://github.com/NathanSunday"
+  google scholar    : " https://scholar.google.com/citations?hl=en&user=Ma4dAkQAAAAJ&scilu=&scisig=ANVigOsAAAAAZi281e9NnjkBO75CEkBs9hWe_94&gmla=ABOlHizIBzG-6_h3M_sl_MqikoXbT7vnRS16KmfxLraBhUqouBY6Y-d_-Kpj_Va0aAzZ3pHQq9Ydi8TB-LfKGBwBBt4jGs1-PPjQnWU&sciund=498522134651893097" 
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -71,8 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  Google_scholar    :" https://scholar.google.com/citations?hl=en&user=Ma4dAkQAAAAJ&scilu=&scisig=ANVigOsAAAAAZi281e9NnjkBO75CEkBs9hWe_94&gmla=ABOlHizIBzG-6_h3M_sl_MqikoXbT7vnRS16KmfxLraBhUqouBY6Y-d_-Kpj_Va0aAzZ3pHQq9Ydi8TB-LfKGBwBBt4jGs1-PPjQnWU&sciund=498522134651893097" 
-
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
