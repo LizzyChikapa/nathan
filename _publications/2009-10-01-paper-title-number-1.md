@@ -1,11 +1,11 @@
 ---
 title: "The effect of commercial banks’ agricultural credit on agricultural growth in Uganda"
 collection: publications
-permalink: /publication/The effect of commercial banks
+permalink: /publication/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'https://lizzychikapa.github.io/nathan/files/paper1.pdf'
+paperurl: 'hthttps://lizzychikapa.github.io/nathan/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
