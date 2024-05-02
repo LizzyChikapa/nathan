@@ -6,6 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD candidate in the Department of Economics at the University of Michigan. My research interests lie in Development Economics and Public Economics. I am dedicated to analyzing how individuals and firms respond to tax policy and exploring strategies for enhancing tax compliance in developing countries. I also study the causal effects of public policies, such as public pension programs. 
+
+Before joining Michigan, I completed a Master of Arts in Economics at Makerere University, Kampala. Additionally, I earned a Bachelor of Science in Education, majoring in Economics and minoring in Mathematics, from the same university. My previous experience includes a position as Research Analyst at the Economic Policy Research Centre (EPRC) in Uganda.
+
+Email: nsunday@umich.edu
+Twitter: @nsunday8
+LinkedIn: Nathan Sunday
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
