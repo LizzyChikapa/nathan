@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-About me
+
+
+Getting started
 ======
 
 
@@ -16,3 +18,10 @@ I am a PhD candidate in the Department of Economics at the University of Michiga
 
 Before joining Michigan, I completed a Master of Arts in Economics at Makerere University, Kampala. Additionally, I earned a Bachelor of Science in Education, majoring in Economics and minoring in Mathematics, from the same university. My previous experience includes a position as Research Analyst at the Economic Policy Research Centre (EPRC) in Uganda.
 
+E
+
+
+mail: nsunday@umich.edu
+Twitter: @nsunday8
+LinkedIn: Nathan Sunday
+Google Scholar
