@@ -25,13 +25,13 @@ author:
   name             : "Nathan Sunday"
   #pronouns         : # example: "she/her"  
   bio              : "Development Economics and Public Economics"
-  #location         : "Earth"
+  location         : "Earth"
+  #employer         : "Red Brick University"
+  #uri              : # URL
   email            : "nsunday@umich.edu" 
-  tWITTER                 : " https://twitter.com/nsunday8" 
+  X                 : " https://twitter.com/nsunday8" 
   LinkedIn          : " https://www.linkedin.com/in/nathan-sunday-2b385613a/" 
-  github           : "https://github.com/nathansunday"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ma4dAkQAAAAJ&scilu=&scisig=ANVigOsAAAAAZi281e9NnjkBO75CEkBs9hWe_94&gmla=ABOlHizIBzG-6_h3M_sl_MqikoXbT7vnRS16KmfxLraBhUqouBY6Y-d_-Kpj_Va0aAzZ3pHQq9Ydi8TB-LfKGBwBBt4jGs1-PPjQnWU&sciund=498522134651893097"
-  
+  github           : "https://github.com/NathanSunday"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
- # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
