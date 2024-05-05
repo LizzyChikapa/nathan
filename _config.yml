@@ -14,7 +14,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : "https://LizzyChikapa.github.io/nathan" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/nathan " # the subpath of your site, e.g. "/blog"
-repository               : "LizzyChikapa/nathan/"
+repository               : #"LizzyChikapa/nathan/"
 
 
 
