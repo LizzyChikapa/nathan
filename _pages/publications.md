@@ -21,9 +21,9 @@ N Florence, S Nathan (2020). [The effect of commercial banks’ agricultural cre
 
 S Nathan, M Ibrahim, M Tom (2020). [Determinants of non-performing loans in Uganda’s commercial banking sector [loans_blog]]. African Journal of Economic Review.
 
-CP Lakuma, N Sunday (2020). [Impact of COVID-19 on micro, small, and medium businesses in Uganda [covid_blog]]
+CP Lakuma, N Sunday (2020). [Impact of COVID-19 on micro, small, and medium businesses in Uganda. [covid_blog]]
 
-PC Lakuma, N Sunday, B Sserunjogi, R Kahunde, e.f Munyambonera (2020). [How has the COVID-19 pandemic impacted Ugandan businesses? Results from a business climate survey[covid_19]]. Economic Policy Research Centre . Special Issue, 2020
+PC Lakuma, N Sunday, B Sserunjogi, R Kahunde, e.f Munyambonera (2020). [How has the COVID-19 pandemic impacted Ugandan businesses? Results from a business climate survey[covid_19]]. Economic Policy Research Centre.
 
 N Sunday, R Kahunde, B Atwine, A Adelaja, J George (2023). [How specific resilience pillars mitigate the impact of drought on food security: Evidence from Uganda[drought_blog]]
 
