@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 Find my articles on [Google Scholar][google_scholar].
 
-## Publications
+
 
 N Florence, S Nathan (2020). [The effect of commercial banks’ agricultural credit on agricultural growth in Uganda.][credit_blog] African Journal of Economic Review.
 
