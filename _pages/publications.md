@@ -10,8 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-Read my [Google Scholar][google_scholar].
+Find my articles on [Google Scholar][google_scholar].
 
 ## Publications
 
