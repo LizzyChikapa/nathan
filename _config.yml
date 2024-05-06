@@ -11,9 +11,9 @@ title                    : "Nathan Sunday"
 title_separator          : "-"
 name                     : &name "Nathan Sunday"
 description              : &description "personal description"
-url                      : https://lizzychikapa.github.io/nathan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lizzychikapa.github.io/nathan # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lizzychikapa.github.io/nathan/"
+repository               : "lizzychikapa.github.io/nathan"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -179,9 +179,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-     research-publications:
-    output: true
-    permalink: /:collection/:path/
+
   publications:
     output: true
     permalink: /:collection/:path/
