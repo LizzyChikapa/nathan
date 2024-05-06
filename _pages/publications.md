@@ -11,40 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-Read my [research statement][research_statement].
-
-## Job market paper
-
-***Sacking the sales staff: Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
-Climate change and extreme weather events are a global problem but especially affect poor countries. The effect on agriculture is well studied, but we know less about non-agricultural firms. I combine firm-level data from sub-Saharan Africa and South Asia with high-resolution weather data to study how non-agricultural firms in poor countries react to weather shocks. I show that weather shocks reduce firms' labor productivity, and that firms react by scaling back complementary expenditures on items like rented machinery, rented space and sales personnel. This makes firms even less productive. To assess policy implications, I develop a structural model including this mechanism. I combine it with machine learning estimates of the impact of climate change to discipline climate change counterfactuals. Counterfactuals show that these firm reactions make (i) policies benefiting mostly larger firms and (ii) policies improving firm adaptation to climate change especially effective at countering welfare losses from climate change.
-
-## Work in progress
-
-***Climate change increases bilateral trade cost*** [[Working paper][trade_network_changes]]\
-It is well established that climate change affects economic production, but its effects on trade networks, especially trade costs, have not been studied. I use international trade and weather data covering almost 200 years to show that climate change increases trade costs. Estimating a simple gravity framework, I find that rising temperatures at the origin or destination country increase bilateral trade cost. I use a standard trade model to quantify the welfare impact of increased trade cost, finding that the impact of climate change on trade cost since the 1910s reduced welfare in the 2010s by 0.81 percent. Looking at the distribution of gains, almost all countries are harmed by trade cost increases due to climate change but poor countries especially so. My methodology can easily be embedded in studies of the impact of climate change using models of international trade.
-
-***Information frictions, demand for quality, and welfare in the market for antimalarials*** (with Russell
-Morton) [[PEDL Grant][pedl_info_frictions]] [[NSF Grant][nsf_info_frictions]]\
-A third of the 627,00 global malaria deaths in 2019 occurred in Nigeria. Only 25% of Nigerians, however, use Artemisinin Combination Therapies (ACTs), recommended by the WHO and the Nigerian government, as their antimalarial of choice. We assess whether concerns about substandard ACTs reduce take-up of ACTs. To answer this question, we run an RCT that reduces quality uncertainty by informing households about the frequency of substandard ACTs at nearby vendors, measured via mystery shopping, and providing free quality testing at local stalls. We use a novel, cost-effective infrared scanner to assess quality without damaging pills. To quantify equilibrium take-up incorporating general equilibrium effects and to consider scenarios without quality uncertainty, we estimate a structural model of antimalarial demand and supply incorporating how quality uncertainty interacts with price and quality supplied. The correlation between consumers’ quality uncertainty and price sensitivity influences prices, magnifying or attenuating the effects of quality uncertainty on take-up. This exercise advances upon WHO estimates of welfare costs of substandard ACTs that hold prices and take-up constant. We also use the model to show how quality uncertainty impacts the costs and effectiveness of common policies to improve take-up of high-quality pharmaceuticals: quality certification and subsidies.
-
-***Information frictions and firm behavior: Evidence from the African Continental Free Trade Area*** (with Yewande Olapade and Socrates Majune) [[Summary of pilot results][trade_info_frictions_pedl]]\
-The African Continental Free Trade Area (AfCFTA) lowers tariffs, harmonizes standards and decreases red tape, aiming to increase intra-African trade. We find, however, that a substantial fraction of Kenyan firms is unaware of the agreement. This is true even among larger firms and firms already engaged in international trade. We ask whether increasing awareness of the agreement and giving firms actionable information on changes relevant to their sector can increase engagement in international trade, especially for firms that are already directly exporting or importing. We use a randomized intervention providing actionable information on AfCFTA, including the ability for firms to ask questions relevant to their operations. We combine our survey results with Kenyan customs data to track firms’ international transactions following the intervention. We embed our RCT results in a model of international trade featuring misinformation about trade cost, estimating the welfare costs of the information friction we highlight, and the benefit of policies aimed at removing it.
-
-***The heterogeneous impacts of weather shocks on households in poor countries*** (with Hoyt
-Bleakley)
-
-***Quality, contracting, and competition in developing country supply chains*** (with Lauren Falcao
-Bergquist and Meredith Startz)
+Read my [Google Scholar][google_scholar].
 
 ## Publications
 
-Bensch, G., Grimm, M., Huppertz, M., Langbein, J., & Peters, J. (2017). Are promotion programs needed to establish off-grid solar energy markets? Evidence from rural Burkina Faso. *Renewable & Sustainable Energy Reviews, 90*, 1060-1068. doi: [10.1016/j.rser.2017.11.003][bghlp2017]
+N Florence, S Nathan (2020). [[The effect of commercial banks’ agricultural credit on agricultural growth in Uganda.][credit_blog]]\ African Journal of Economic Review.
 
-[jmp]: ../files/max_huppertz_jmp.pdf
-[jmp_blog]: https://blogs.worldbank.org/impactevaluations/sacking-sales-staff-how-firms-poor-countries-deal-extreme-weather-guest-post-max
-[research_statement]: ../files/research_statement.pdf
-[trade_network_changes]: ../files/trade_network_changes.pdf
-[trade_info_frictions_pedl]: https://pedl.cepr.org/publications/african-continental-integration-and-firm-awareness-trade-policy-evidence-kenyan-pilot
-[bghlp2017]: https://doi.org/10.1016/j.rser.2017.11.003
-[pedl_info_frictions]: https://pedl.cepr.org/content/information-frictions-demand-quality-and-welfare-market-antimalarials-1
-[nsf_info_frictions]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117105&HistoricalAwards=false
+S Nathan, M Ibrahim, M Tom (2020). [[Determinants of non-performing loans in Uganda’s commercial banking sector.][loans_blog]]\  African Journal of Economic Review.
+
+CP Lakuma, N Sunday (2020). [[Impact of COVID-19 on micro, small, and medium businesses in Uganda.][covid_blog]]\
+
+PC Lakuma, N Sunday, B Sserunjogi, R Kahunde, e.f Munyambonera (2020). [[How has the COVID-19 pandemic impacted Ugandan businesses? Results from a business climate survey.][covid_19]]\ Economic Policy Research Centre.
+
+N Sunday, R Kahunde, B Atwine, A Adelaja, J George (2023). [[How specific resilience pillars mitigate the impact of drought on food security: Evidence from Uganda][drought_blog]]\
+
+
+[credit_blog]: https://www.ajol.info/index.php/ajer/article/view/192203
+[loans_blog]: https://www.ajol.info/index.php/ajer/article/view/192192
+[covid_blog]: https://policycommons.net/artifacts/4139952/impact-of-covid-19-on-micro-small-and-medium-businesses-in-uganda/4948149/ 
+[covid_19]: https://www.voced.edu.au/content/ngv:86700
+[drought_blog]: https://link.springer.com/article/10.1007/s12571-022-01313-9
+[google_scholar]: https://scholar.google.com/citations?user=Ma4dAkQAAAAJ&hl=en
